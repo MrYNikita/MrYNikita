@@ -20,6 +20,7 @@
   - Docker;
   - Node.js;
   - React.js;
+  - YModules;
   - Electron.js;
 
 ***
